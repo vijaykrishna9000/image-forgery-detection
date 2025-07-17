@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+
+# Env
+venv/
+myenv/
+.env
+
+# Dataset & Outputs
+data/
+models/
+*.h5
+*.tflite
+*.pkl
+
+# OS/Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
